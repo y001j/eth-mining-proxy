@@ -2,7 +2,10 @@
 It is a ethereum mining proxy tool that help minners who cannot directly connect to a mining pool 
 
 **example：**
-use socks5 proxy ，run command line: `miningproxy 0.0.0.0 1081 asia2.ethermine.org:4444 127.0.0.1:9788`
+
+use socks5 proxy ，run command line: 
+
+`miningproxy 0.0.0.0 1081 asia2.ethermine.org:4444 127.0.0.1:9788`
 
 `0.0.0.0 1081`  is mining proxy port and binding ip address in host
 
