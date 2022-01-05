@@ -13,7 +13,7 @@ use socks5 proxy ，run command line:
 
 `127.0.0.1:9788` is socks5 proxy address, if use V2ray or shadowsocks，you can put  local http proxy address.
 
-don't use socks5 proxy, run command line: 
+If you don't need socks5 proxy, run command line: 
 
 `miningproxy 0.0.0.0 1081 asia2.ethermine.org:4444 `
 
