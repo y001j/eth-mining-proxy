@@ -1,5 +1,6 @@
 # Deployed ETH mining proxy：可以使用的部署好的ETH代理地址:
 f2pool/鱼池: 139.196.181.234:1081
+
 ethermine: 139.196.181.234:1088
 
 # eth-mining-proxy
