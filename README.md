@@ -1,3 +1,7 @@
+# Deployed ETH mining proxy：可以使用的部署好的ETH代理地址:
+f2pool/鱼池: 139.196.181.234:1081
+ethermine: 139.196.181.234:1088
+
 # eth-mining-proxy
 It is a ethereum mining proxy tool that help minners who cannot directly connect to a mining pool 
 
@@ -20,3 +24,4 @@ If you don't need socks5 proxy, run command line:
 just remove socks5 proxy address
 
 if the mining proxy is running on local PC, you can mining towards 127.0.0.1:1081 as pool address.
+
